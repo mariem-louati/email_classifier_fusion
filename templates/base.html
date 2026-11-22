@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ nom_projet }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header class="barre">
+    <a class="logo" href="/">✉️ {{ nom_projet }}</a>
+    <nav>
+      <a href="/">Analyser</a>
+      <a href="/evaluation">Évaluation du modèle</a>
+    </nav>
+  </header>
+  <main>{% block contenu %}{% endblock %}</main>
+  <footer>Projet IA &amp; NLP · réalisé par {{ auteur }}</footer>
+  {% block script %}{% endblock %}
+</body>
+</html>

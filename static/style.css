@@ -1,0 +1,64 @@
+/* TA TOUCHE : change les couleurs ici */
+:root {
+  --fond: #0F1424;
+  --carte: #181F36;
+  --bordure: #2A3355;
+  --texte: #E8ECF8;
+  --discret: #8F9AC0;
+  --accent: #FFB347;
+  --accent2: #FF6B9D;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; font-family: "Segoe UI", system-ui, Arial, sans-serif; color: var(--texte);
+  background: radial-gradient(900px 500px at 85% -10%, #2b1f4d 0%, transparent 60%), var(--fond);
+  min-height: 100vh; display: flex; flex-direction: column;
+}
+.barre { display: flex; justify-content: space-between; align-items: center; padding: 18px 5vw; border-bottom: 1px solid var(--bordure); }
+.logo { font-weight: 800; font-size: 20px; color: var(--texte); text-decoration: none; }
+nav a { color: var(--discret); text-decoration: none; margin-left: 22px; font-weight: 600; }
+nav a:hover { color: var(--accent); }
+main { flex: 1; width: min(1100px, 92vw); margin: 0 auto; padding: 40px 0; }
+.intro { text-align: center; margin-bottom: 34px; }
+.intro h1 { font-size: clamp(30px, 5vw, 46px); margin: 0 0 10px;
+  background: linear-gradient(90deg, var(--accent), var(--accent2)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.intro p { color: var(--discret); font-size: 18px; margin: 0 0 20px; }
+.pastilles { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+.pastille { border: 1px solid var(--c); color: var(--c); background: color-mix(in srgb, var(--c) 12%, transparent);
+  padding: 6px 14px; border-radius: 999px; font-size: 14px; font-weight: 600; }
+.grille { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+@media (max-width: 800px) { .grille { grid-template-columns: 1fr; } }
+.carte { background: var(--carte); border: 1px solid var(--bordure); border-radius: 18px; padding: 26px; }
+.carte h2 { margin: 0 0 16px; font-size: 20px; }
+.carte h3 { font-size: 15px; color: var(--discret); margin: 24px 0 12px; }
+textarea { width: 100%; background: var(--fond); color: var(--texte); border: 1px solid var(--bordure); border-radius: 12px;
+  padding: 14px; font: inherit; resize: vertical; }
+textarea:focus { outline: 2px solid var(--accent); border-color: transparent; }
+.ligne { display: flex; justify-content: space-between; align-items: center; color: var(--discret); font-size: 13px; margin: 8px 0; }
+.aide { color: var(--discret); font-size: 14px; margin: 14px 0 8px; }
+.exemples { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.exemples button { background: transparent; color: var(--texte); border: 1px dashed var(--bordure); border-radius: 10px;
+  padding: 7px 12px; cursor: pointer; font-size: 13px; }
+.exemples button:hover { border-color: var(--accent); color: var(--accent); }
+.lien { background: none; border: none; color: var(--discret); cursor: pointer; text-decoration: underline; }
+.bouton { width: 100%; padding: 14px; border: none; border-radius: 12px; font-size: 16px; font-weight: 800; cursor: pointer;
+  color: #1a1030; background: linear-gradient(90deg, var(--accent), var(--accent2)); transition: transform .1s; }
+.bouton:hover { transform: translateY(-2px); }
+.bouton:disabled { opacity: .6; cursor: wait; }
+.vide { color: var(--discret); text-align: center; padding: 50px 0; }
+.badge { font-size: 26px; font-weight: 800; padding: 16px 18px; border-radius: 14px; margin-bottom: 18px;
+  color: var(--c); background: color-mix(in srgb, var(--c) 14%, transparent); border: 1px solid var(--c); }
+.confiance { display: flex; justify-content: space-between; margin-bottom: 8px; color: var(--discret); }
+.confiance strong { color: var(--texte); font-size: 20px; }
+.jauge { height: 10px; background: var(--fond); border-radius: 99px; overflow: hidden; }
+.jauge > div { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent2)); border-radius: 99px; transition: width .7s ease; }
+.alerte { background: #4a3410; border: 1px solid var(--accent); color: #ffd699; padding: 12px; border-radius: 10px; margin-top: 16px; }
+.erreur { color: #ff8f8f; text-align: center; }
+.barre-ligne { display: grid; grid-template-columns: 170px 1fr 52px; gap: 10px; align-items: center; margin-bottom: 9px; font-size: 14px; }
+.barre-ligne .jauge > div { background: var(--c); }
+.barre-ligne b { text-align: right; }
+.score { margin-bottom: 20px; }
+.score strong { color: var(--accent); }
+.matrice { width: 100%; background: white; border-radius: 12px; }
+code { background: var(--fond); padding: 2px 6px; border-radius: 6px; }
+footer { text-align: center; color: var(--discret); padding: 24px; font-size: 13px; border-top: 1px solid var(--bordure); }

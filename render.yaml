@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: classification-emails
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt && python 2_entrainer_modele.py && python 3_evaluer_modele.py && python 4_analyser_erreurs.py
+    startCommand: gunicorn app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.3
+      - key: MPLBACKEND
+        value: Agg

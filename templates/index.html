@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block contenu %}
+<section class="intro">
+  <h1>{{ nom_projet }}</h1>
+  <p>{{ sous_titre }}</p>
+  <div class="pastilles">
+    {% for nom, c in categories.items() %}
+      <span class="pastille" style="--c: {{ c.couleur }}">{{ c.emoji }} {{ nom }}</span>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="grille">
+  <div class="carte">
+    <h2>1. Ton e-mail</h2>
+    <textarea id="email" rows="9" maxlength="5000"
+      placeholder="Colle ou écris un e-mail ici…"></textarea>
+    <div class="ligne">
+      <span id="compteur">0 / 5000</span>
+      <button class="lien" id="effacer" type="button">Effacer</button>
+    </div>
+    <p class="aide">Pas d'idée ? Essaie un exemple :</p>
+    <div class="exemples" id="exemples"></div>
+    <button class="bouton" id="analyser" type="button">Analyser l'e-mail</button>
+  </div>
+
+  <div class="carte" id="zone-resultat">
+    <h2>2. Résultat</h2>
+    <div id="vide" class="vide">Le résultat apparaîtra ici.</div>
+    <div id="resultat" hidden>
+      <div id="badge" class="badge"></div>
+      <div class="confiance">
+        <span>Confiance du modèle</span><strong id="confiance"></strong>
+      </div>
+      <div class="jauge"><div id="jauge-barre"></div></div>
+      <p id="alerte" class="alerte" hidden>
+        ⚠️ Confiance faible : la catégorie est incertaine, une vérification humaine est conseillée.
+      </p>
+      <h3>Probabilité pour chaque catégorie</h3>
+      <div id="barres"></div>
+    </div>
+    <p id="erreur" class="erreur" hidden></p>
+  </div>
+</section>
+{% endblock %}
+
+{% block script %}
+<script>
+  const CATEGORIES = {{ categories | tojson }};
+  const EXEMPLES = [
+    "Ma commande n'est toujours pas arrivée après 3 semaines, je veux être remboursé.",
+    "Quels sont vos horaires d'ouverture le samedi ?",
+    "Serait-il possible de fixer un rendez-vous jeudi matin avec un conseiller ?",
+    "Pourriez-vous m'envoyer une attestation de scolarité pour ma bourse ?",
+    "URGENT : on a débité ma carte sans mon accord, bloquez-la immédiatement !"
+  ];
+</script>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+{% endblock %}
