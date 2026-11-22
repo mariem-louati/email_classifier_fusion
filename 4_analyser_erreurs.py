@@ -15,7 +15,7 @@ d["prediction"] = modele.predict(d["email_text"])
 
 print("Tableau des erreurs (lignes = vraie catégorie, colonnes = réponse du modèle) :")
 print(pd.crosstab(d["category"], d["prediction"]))
-
+MATRICE.parent.mkdir(exist_ok=True)
 ConfusionMatrixDisplay.from_predictions(
     d["category"], d["prediction"], xticks_rotation=30, cmap="Blues"
 )
