@@ -12,7 +12,7 @@ SEUIL_CONFIANCE = 40
 
 # --- TA TOUCHE : change ces lignes pour personnaliser le site ---
 NOM_PROJET = "Classification des e-mails"
-AUTEUR = "Ton nom ici"
+AUTEUR = "Mariem Louati et Molka Haouami "
 SOUS_TITRE = "Colle un e-mail, l'IA trouve sa catégorie en une seconde."
 
 # Nom de la 6e catégorie : tout ce qui n'est pas un vrai e-mail (bonjour seul, charabia, pub...)
