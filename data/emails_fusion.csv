@@ -2369,3 +2369,495 @@ Comment fonctionne votre programme de fidélité et comment cumuler des points ?
 "Bonjour Madame, Monsieur, Mon compte a été piraté : mon mot de passe a été changé et mes données de paiement sont exposées. Il faut le bloquer immédiatement. Vous êtes ma dernière solution. Les conséquences seraient très lourdes. Merci de me répondre dans l'heure. Awa",Urgence,test_synth,test_synth
 "salut, je voudrais qu'un commercial passe chez moi pour etablir un devis, quand pourriez-vous venir ? je suis plutot disponible en dehors des heures de bureau. merci et bonne journee. julien",Demande de rendez-vous,test_synth,test_synth
 "Hello, Je vous contacte via votre site pour une information. Quelle est l'autonomie annoncée du jean slim en utilisation normale ? J'adore votre plateforme, c'est juste un petit souci. Merci de votre aide. P. Roux",Demande d'information,test_synth,test_synth
+Amine a un nouveau téléphone,Spam / Hors sujet,spam_genere,train
+Okay,Spam / Hors sujet,spam_genere,train
+Gagnez gros : cliquez sur ce lien pour recevoir votre cadeau,Spam / Hors sujet,spam_genere,train
+coucou monsieur,Spam / Hors sujet,spam_genere,train
+coucou les amis,Spam / Hors sujet,spam_genere,train
+lol !,Spam / Hors sujet,spam_genere,train
+UIOPUIOP,Spam / Hors sujet,spam_genere,train
+bonsoir world,Spam / Hors sujet,spam_genere,train
+bbb,Spam / Hors sujet,spam_genere,train
+OKAY,Spam / Hors sujet,spam_genere,train
+bonne journée !,Spam / Hors sujet,spam_genere,train
+?!,Spam / Hors sujet,spam_genere,train
+Bonsoir,Spam / Hors sujet,spam_genere,train
+bonjour world,Spam / Hors sujet,spam_genere,train
+BONSOIR,Spam / Hors sujet,spam_genere,train
+Salwa est dans la maison,Spam / Hors sujet,spam_genere,train
+ewqtuvxbo mmmdpumbgc,Spam / Hors sujet,spam_genere,train
+Offre exclusive : cliquez sur ce lien pour recevoir votre cadeau,Spam / Hors sujet,spam_genere,train
+ASDFGH,Spam / Hors sujet,spam_genere,train
+"Joyeux anniversaire mon ami, passe une belle journée !",Spam / Hors sujet,spam_genere,train
+😂,Spam / Hors sujet,spam_genere,train
+this is a test message,Spam / Hors sujet,spam_genere,train
+what is your name,Spam / Hors sujet,spam_genere,train
+ok !,Spam / Hors sujet,spam_genere,train
+"Offre exclusive : vous avez gagné un iPhone, cliquez ici",Spam / Hors sujet,spam_genere,train
+@@@@,Spam / Hors sujet,spam_genere,train
+hello tout le monde,Spam / Hors sujet,spam_genere,train
+Rania dort déjà,Spam / Hors sujet,spam_genere,train
+sjrvf,Spam / Hors sujet,spam_genere,train
+bye !,Spam / Hors sujet,spam_genere,train
+Blabla,Spam / Hors sujet,spam_genere,train
+okay,Spam / Hors sujet,spam_genere,train
+Sami est dans la maison,Spam / Hors sujet,spam_genere,train
+...,Spam / Hors sujet,spam_genere,train
+Offre exclusive : perdez 10 kilos en 7 jours sans effort,Spam / Hors sujet,spam_genere,train
+Gagnez gros : casino en ligne : 100 tours gratuits,Spam / Hors sujet,spam_genere,train
+OUI,Spam / Hors sujet,spam_genere,train
+"FÉLICITATIONS ! 10 000 € offerts sans condition, répondez vite",Spam / Hors sujet,spam_genere,train
+J'ai acheté des chaussures super belles aujourd'hui.,Spam / Hors sujet,spam_genere,train
+uiopuiop,Spam / Hors sujet,spam_genere,train
+Ça va,Spam / Hors sujet,spam_genere,train
+hi...,Spam / Hors sujet,spam_genere,train
+zydrbhgibyd raycoktqtqg,Spam / Hors sujet,spam_genere,train
+Nour joue au football,Spam / Hors sujet,spam_genere,train
+"Gagnez gros : 10 000 € offerts sans condition, répondez vite",Spam / Hors sujet,spam_genere,train
+Au revoir,Spam / Hors sujet,spam_genere,train
+"FÉLICITATIONS ! vous avez gagné un iPhone, cliquez ici",Spam / Hors sujet,spam_genere,train
+bye...,Spam / Hors sujet,spam_genere,train
+ena fi eddar,Spam / Hors sujet,spam_genere,train
+salut monsieur,Spam / Hors sujet,spam_genere,train
+MLKJHG,Spam / Hors sujet,spam_genere,train
+"FÉLICITATIONS ! prêt immédiat sans justificatif, appelez-nous",Spam / Hors sujet,spam_genere,train
+super !,Spam / Hors sujet,spam_genere,train
+zicth,Spam / Hors sujet,spam_genere,train
+Karim va au cinéma ce soir,Spam / Hors sujet,spam_genere,train
+bonne journée.,Spam / Hors sujet,spam_genere,train
+.,Spam / Hors sujet,spam_genere,train
+blabla !,Spam / Hors sujet,spam_genere,train
+yo...,Spam / Hors sujet,spam_genere,train
+salut world,Spam / Hors sujet,spam_genere,train
+let's go to the beach,Spam / Hors sujet,spam_genere,train
+coucou.,Spam / Hors sujet,spam_genere,train
+hello madame,Spam / Hors sujet,spam_genere,train
+thank you very much,Spam / Hors sujet,spam_genere,train
+Nour va au cinéma ce soir,Spam / Hors sujet,spam_genere,train
+bonsoir les gars,Spam / Hors sujet,spam_genere,train
+Karim dort déjà,Spam / Hors sujet,spam_genere,train
+bonsoir !,Spam / Hors sujet,spam_genere,train
+bonjour monsieur,Spam / Hors sujet,spam_genere,train
+coucou ça va ?,Spam / Hors sujet,spam_genere,train
+doakrnit,Spam / Hors sujet,spam_genere,train
+salut madame,Spam / Hors sujet,spam_genere,train
+au revoir.,Spam / Hors sujet,spam_genere,train
+rryqkuh zhmxzhg,Spam / Hors sujet,spam_genere,train
+mdr !,Spam / Hors sujet,spam_genere,train
+Bonsoir ?,Spam / Hors sujet,spam_genere,train
+bonne journée,Spam / Hors sujet,spam_genere,train
+Rien,Spam / Hors sujet,spam_genere,train
+aaaa,Spam / Hors sujet,spam_genere,train
+Yes,Spam / Hors sujet,spam_genere,train
+Bonjour ?,Spam / Hors sujet,spam_genere,train
+Rania prépare un gâteau,Spam / Hors sujet,spam_genere,train
+rien.,Spam / Hors sujet,spam_genere,train
+AZERTY,Spam / Hors sujet,spam_genere,train
+lol that was so funny,Spam / Hors sujet,spam_genere,train
+Dernière chance ! confirmez votre mot de passe sur ce lien,Spam / Hors sujet,spam_genere,train
+merci !,Spam / Hors sujet,spam_genere,train
+super...,Spam / Hors sujet,spam_genere,train
+salut comment ça va,Spam / Hors sujet,spam_genere,train
+Gagnez gros : -70% sur tout le site aujourd'hui seulement,Spam / Hors sujet,spam_genere,train
+hello how are you doing today,Spam / Hors sujet,spam_genere,train
+FÉLICITATIONS ! cliquez sur ce lien pour recevoir votre cadeau,Spam / Hors sujet,spam_genere,train
+qagqle yqju wiqlf,Spam / Hors sujet,spam_genere,train
+MDR,Spam / Hors sujet,spam_genere,train
+Non,Spam / Hors sujet,spam_genere,train
+Gagnez gros : achetez des followers pas chers,Spam / Hors sujet,spam_genere,train
+salut ça va ?,Spam / Hors sujet,spam_genere,train
+Bye ?,Spam / Hors sujet,spam_genere,train
+rejn,Spam / Hors sujet,spam_genere,train
+Ahmed dort déjà,Spam / Hors sujet,spam_genere,train
+yes,Spam / Hors sujet,spam_genere,train
+nheb nakel pizza,Spam / Hors sujet,spam_genere,train
+On part en vacances à Hammamet cet été.,Spam / Hors sujet,spam_genere,train
+yes...,Spam / Hors sujet,spam_genere,train
+coucou à tous,Spam / Hors sujet,spam_genere,train
+"Dernière chance ! vous avez gagné un iPhone, cliquez ici",Spam / Hors sujet,spam_genere,train
+hey !,Spam / Hors sujet,spam_genere,train
+slt...,Spam / Hors sujet,spam_genere,train
+12345,Spam / Hors sujet,spam_genere,train
+non...,Spam / Hors sujet,spam_genere,train
+good night sleep well,Spam / Hors sujet,spam_genere,train
+ok.,Spam / Hors sujet,spam_genere,train
+Oui ?,Spam / Hors sujet,spam_genere,train
+Viens vite j'ai besoin de toi mon chéri.,Spam / Hors sujet,spam_genere,train
+Cc,Spam / Hors sujet,spam_genere,train
+hello.,Spam / Hors sujet,spam_genere,train
+Essai,Spam / Hors sujet,spam_genere,train
+qwhd,Spam / Hors sujet,spam_genere,train
+Salwa dort déjà,Spam / Hors sujet,spam_genere,train
+bonsoir monsieur,Spam / Hors sujet,spam_genere,train
+zuettpvlerr aazxud nggaig,Spam / Hors sujet,spam_genere,train
+---,Spam / Hors sujet,spam_genere,train
+SUPER,Spam / Hors sujet,spam_genere,train
+Molka regarde un match,Spam / Hors sujet,spam_genere,train
+Sami est partie au marché,Spam / Hors sujet,spam_genere,train
+Cool ?,Spam / Hors sujet,spam_genere,train
+Gagnez gros : perdez 10 kilos en 7 jours sans effort,Spam / Hors sujet,spam_genere,train
+Blabla ?,Spam / Hors sujet,spam_genere,train
+Molka est partie au marché,Spam / Hors sujet,spam_genere,train
+mdr...,Spam / Hors sujet,spam_genere,train
+essai !,Spam / Hors sujet,spam_genere,train
+Test ?,Spam / Hors sujet,spam_genere,train
+yes !,Spam / Hors sujet,spam_genere,train
+Allo,Spam / Hors sujet,spam_genere,train
+Offre exclusive : confirmez votre mot de passe sur ce lien,Spam / Hors sujet,spam_genere,train
+oui.,Spam / Hors sujet,spam_genere,train
+Nour est dans la maison,Spam / Hors sujet,spam_genere,train
+wuvlei,Spam / Hors sujet,spam_genere,train
+oqrzpqhw rgoendmo cvhncgvjz,Spam / Hors sujet,spam_genere,train
+Nour chante dans la douche,Spam / Hors sujet,spam_genere,train
+bonsoir...,Spam / Hors sujet,spam_genere,train
+"Dernière chance ! prêt immédiat sans justificatif, appelez-nous",Spam / Hors sujet,spam_genere,train
+Ok,Spam / Hors sujet,spam_genere,train
+see you tomorrow my friend,Spam / Hors sujet,spam_genere,train
+yes.,Spam / Hors sujet,spam_genere,train
+Molka a un nouveau téléphone,Spam / Hors sujet,spam_genere,train
+CC,Spam / Hors sujet,spam_genere,train
+Yassine mange une pizza,Spam / Hors sujet,spam_genere,train
+bonsoir,Spam / Hors sujet,spam_genere,train
+okay.,Spam / Hors sujet,spam_genere,train
+bjr...,Spam / Hors sujet,spam_genere,train
+nchallah ghodwa,Spam / Hors sujet,spam_genere,train
+Mdr,Spam / Hors sujet,spam_genere,train
+Ahmed est dans la maison,Spam / Hors sujet,spam_genere,train
+Karim est dans la maison,Spam / Hors sujet,spam_genere,train
+Yassine a un nouveau téléphone,Spam / Hors sujet,spam_genere,train
+Salwa est partie au marché,Spam / Hors sujet,spam_genere,train
+Nour mange une pizza,Spam / Hors sujet,spam_genere,train
+Offre exclusive : devenez riche avec la crypto en 24h,Spam / Hors sujet,spam_genere,train
+au revoir,Spam / Hors sujet,spam_genere,train
+non,Spam / Hors sujet,spam_genere,train
+Sami joue au football,Spam / Hors sujet,spam_genere,train
+"Offre exclusive : 10 000 € offerts sans condition, répondez vite",Spam / Hors sujet,spam_genere,train
+bye,Spam / Hors sujet,spam_genere,train
+bonsoir comment ça va,Spam / Hors sujet,spam_genere,train
+sbah el khir,Spam / Hors sujet,spam_genere,train
+lol.,Spam / Hors sujet,spam_genere,train
+Ahmed va au cinéma ce soir,Spam / Hors sujet,spam_genere,train
+Rania joue au football,Spam / Hors sujet,spam_genere,train
+Cc ?,Spam / Hors sujet,spam_genere,train
+Karim a un nouveau téléphone,Spam / Hors sujet,spam_genere,train
+Karim joue au football,Spam / Hors sujet,spam_genere,train
+bonjour ça va ?,Spam / Hors sujet,spam_genere,train
+super.,Spam / Hors sujet,spam_genere,train
+tu es là ?,Spam / Hors sujet,spam_genere,train
+hello à tous,Spam / Hors sujet,spam_genere,train
+Ahmed a un nouveau téléphone,Spam / Hors sujet,spam_genere,train
+hey.,Spam / Hors sujet,spam_genere,train
+ya khouya chnowa el jaw,Spam / Hors sujet,spam_genere,train
+Molka joue au football,Spam / Hors sujet,spam_genere,train
+Karim prépare un gâteau,Spam / Hors sujet,spam_genere,train
+"Regarde cette photo, elle est trop drôle.",Spam / Hors sujet,spam_genere,train
+Sami prépare un gâteau,Spam / Hors sujet,spam_genere,train
+salut...,Spam / Hors sujet,spam_genere,train
+"Offre exclusive : prêt immédiat sans justificatif, appelez-nous",Spam / Hors sujet,spam_genere,train
+"Il fait très beau aujourd'hui, on va à la plage.",Spam / Hors sujet,spam_genere,train
+test 1 2 3,Spam / Hors sujet,spam_genere,train
+Amine dort déjà,Spam / Hors sujet,spam_genere,train
+0000,Spam / Hors sujet,spam_genere,train
+bonsoir à tous,Spam / Hors sujet,spam_genere,train
+dxkxip,Spam / Hors sujet,spam_genere,train
+SLT,Spam / Hors sujet,spam_genere,train
+Salwa joue au football,Spam / Hors sujet,spam_genere,train
+ESSAI,Spam / Hors sujet,spam_genere,train
+Yassine chante dans la douche,Spam / Hors sujet,spam_genere,train
+Salwa va au cinéma ce soir,Spam / Hors sujet,spam_genere,train
+Sami mange une pizza,Spam / Hors sujet,spam_genere,train
+slt,Spam / Hors sujet,spam_genere,train
+bjr !,Spam / Hors sujet,spam_genere,train
+essai,Spam / Hors sujet,spam_genere,train
+barcha barcha behi,Spam / Hors sujet,spam_genere,train
+this song is amazing,Spam / Hors sujet,spam_genere,train
+JKLJKL,Spam / Hors sujet,spam_genere,train
+vdmzw pfnzukc omxcxffeae,Spam / Hors sujet,spam_genere,train
+"Ce soir on mange chez mamie, tu viens ?",Spam / Hors sujet,spam_genere,train
+have a great day,Spam / Hors sujet,spam_genere,train
+ça va...,Spam / Hors sujet,spam_genere,train
+Yo ?,Spam / Hors sujet,spam_genere,train
+pwvcbxwj,Spam / Hors sujet,spam_genere,train
+hello...,Spam / Hors sujet,spam_genere,train
+Mariem prépare un gâteau,Spam / Hors sujet,spam_genere,train
+hqyacic msbmaj,Spam / Hors sujet,spam_genere,train
+mrigel kol chay,Spam / Hors sujet,spam_genere,train
+merci,Spam / Hors sujet,spam_genere,train
+bjr.,Spam / Hors sujet,spam_genere,train
+Rania chante dans la douche,Spam / Hors sujet,spam_genere,train
+"Salut cousin, on se retrouve au café ?",Spam / Hors sujet,spam_genere,train
+3aslema chnahwelek,Spam / Hors sujet,spam_genere,train
+HI,Spam / Hors sujet,spam_genere,train
+Mariem chante dans la douche,Spam / Hors sujet,spam_genere,train
+Oui,Spam / Hors sujet,spam_genere,train
+mdr,Spam / Hors sujet,spam_genere,train
+Nour est partie au marché,Spam / Hors sujet,spam_genere,train
+bonjour madame,Spam / Hors sujet,spam_genere,train
+cool...,Spam / Hors sujet,spam_genere,train
+FÉLICITATIONS ! perdez 10 kilos en 7 jours sans effort,Spam / Hors sujet,spam_genere,train
+merci...,Spam / Hors sujet,spam_genere,train
+La pluie ne s'arrête pas depuis ce matin.,Spam / Hors sujet,spam_genere,train
+Gagnez gros : devenez riche avec la crypto en 24h,Spam / Hors sujet,spam_genere,train
+blabla.,Spam / Hors sujet,spam_genere,train
+Dernière chance ! achetez des followers pas chers,Spam / Hors sujet,spam_genere,train
+Salwa mange une pizza,Spam / Hors sujet,spam_genere,train
+poiuyt,Spam / Hors sujet,spam_genere,train
+OK,Spam / Hors sujet,spam_genere,train
+yo.,Spam / Hors sujet,spam_genere,train
+"Je t'aime fort, à ce soir.",Spam / Hors sujet,spam_genere,train
+cgtm uiltlp,Spam / Hors sujet,spam_genere,train
+ssmb,Spam / Hors sujet,spam_genere,train
+ZXCVBN,Spam / Hors sujet,spam_genere,train
+Hi,Spam / Hors sujet,spam_genere,train
+mlkjhg,Spam / Hors sujet,spam_genere,train
+FÉLICITATIONS ! -70% sur tout le site aujourd'hui seulement,Spam / Hors sujet,spam_genere,train
+FÉLICITATIONS ! casino en ligne : 100 tours gratuits,Spam / Hors sujet,spam_genere,train
+hello ça va ?,Spam / Hors sujet,spam_genere,train
+hello les amis,Spam / Hors sujet,spam_genere,train
+yo !,Spam / Hors sujet,spam_genere,train
+Yassine est partie au marché,Spam / Hors sujet,spam_genere,train
+test test test,Spam / Hors sujet,spam_genere,train
+Karim regarde un match,Spam / Hors sujet,spam_genere,train
+slt !,Spam / Hors sujet,spam_genere,train
+Mariem dort déjà,Spam / Hors sujet,spam_genere,train
+rmqjwghkgwx mlbeac,Spam / Hors sujet,spam_genere,train
+Molka prépare un gâteau,Spam / Hors sujet,spam_genere,train
+Merci ?,Spam / Hors sujet,spam_genere,train
+Offre exclusive : achetez des followers pas chers,Spam / Hors sujet,spam_genere,train
+Salwa a un nouveau téléphone,Spam / Hors sujet,spam_genere,train
+WXCVBN,Spam / Hors sujet,spam_genere,train
+ça marche ?,Spam / Hors sujet,spam_genere,train
+Cool,Spam / Hors sujet,spam_genere,train
+coucou madame,Spam / Hors sujet,spam_genere,train
+coucou comment ça va,Spam / Hors sujet,spam_genere,train
+labes alik,Spam / Hors sujet,spam_genere,train
+oui oui d'accord,Spam / Hors sujet,spam_genere,train
+"Dernière chance ! 10 000 € offerts sans condition, répondez vite",Spam / Hors sujet,spam_genere,train
+cc,Spam / Hors sujet,spam_genere,train
+i love pizza,Spam / Hors sujet,spam_genere,train
+Salut ?,Spam / Hors sujet,spam_genere,train
+yezzi 3ana,Spam / Hors sujet,spam_genere,train
+Au revoir ?,Spam / Hors sujet,spam_genere,train
+Hello ?,Spam / Hors sujet,spam_genere,train
+ok merci bye,Spam / Hors sujet,spam_genere,train
+bonjour comment ça va,Spam / Hors sujet,spam_genere,train
+Rania va au cinéma ce soir,Spam / Hors sujet,spam_genere,train
+mchina lel dar,Spam / Hors sujet,spam_genere,train
+ALLO,Spam / Hors sujet,spam_genere,train
+happy birthday to you,Spam / Hors sujet,spam_genere,train
+Papa est parti faire les courses.,Spam / Hors sujet,spam_genere,train
+Gagnez gros : confirmez votre mot de passe sur ce lien,Spam / Hors sujet,spam_genere,train
+hi,Spam / Hors sujet,spam_genere,train
+allo !,Spam / Hors sujet,spam_genere,train
+Sami chante dans la douche,Spam / Hors sujet,spam_genere,train
+ÇA VA,Spam / Hors sujet,spam_genere,train
+MERCI,Spam / Hors sujet,spam_genere,train
+Dernière chance ! perdez 10 kilos en 7 jours sans effort,Spam / Hors sujet,spam_genere,train
+coucou,Spam / Hors sujet,spam_genere,train
+okay...,Spam / Hors sujet,spam_genere,train
+csqyevw ykxpejxtue,Spam / Hors sujet,spam_genere,train
+Ahmed regarde un match,Spam / Hors sujet,spam_genere,train
+Bonne journée,Spam / Hors sujet,spam_genere,train
+ok...,Spam / Hors sujet,spam_genere,train
+Ahmed mange une pizza,Spam / Hors sujet,spam_genere,train
+Mariem va au cinéma ce soir,Spam / Hors sujet,spam_genere,train
+Salwa prépare un gâteau,Spam / Hors sujet,spam_genere,train
+mdr.,Spam / Hors sujet,spam_genere,train
+nice to meet you,Spam / Hors sujet,spam_genere,train
+bonsoir les amis,Spam / Hors sujet,spam_genere,train
+Rania est partie au marché,Spam / Hors sujet,spam_genere,train
+knglkcxlak owamkqtjqcd dciibyf,Spam / Hors sujet,spam_genere,train
+test...,Spam / Hors sujet,spam_genere,train
+POIUYT,Spam / Hors sujet,spam_genere,train
+wach nta bekhir,Spam / Hors sujet,spam_genere,train
+non !,Spam / Hors sujet,spam_genere,train
+😀😀😀,Spam / Hors sujet,spam_genere,train
+"Gagnez gros : prêt immédiat sans justificatif, appelez-nous",Spam / Hors sujet,spam_genere,train
+hfhfhf,Spam / Hors sujet,spam_genere,train
+Rania regarde un match,Spam / Hors sujet,spam_genere,train
+Offre exclusive : -70% sur tout le site aujourd'hui seulement,Spam / Hors sujet,spam_genere,train
+Nour prépare un gâteau,Spam / Hors sujet,spam_genere,train
+!!!,Spam / Hors sujet,spam_genere,train
+rnbsd,Spam / Hors sujet,spam_genere,train
+COUCOU,Spam / Hors sujet,spam_genere,train
+Nour dort déjà,Spam / Hors sujet,spam_genere,train
+yskirne xlov,Spam / Hors sujet,spam_genere,train
+Offre exclusive : casino en ligne : 100 tours gratuits,Spam / Hors sujet,spam_genere,train
+Salwa chante dans la douche,Spam / Hors sujet,spam_genere,train
+merci.,Spam / Hors sujet,spam_genere,train
+hi !,Spam / Hors sujet,spam_genere,train
+Molka va au cinéma ce soir,Spam / Hors sujet,spam_genere,train
+Rien ?,Spam / Hors sujet,spam_genere,train
+nharek zin,Spam / Hors sujet,spam_genere,train
+yaatik essaha,Spam / Hors sujet,spam_genere,train
+Yassine regarde un match,Spam / Hors sujet,spam_genere,train
+wxcvbn,Spam / Hors sujet,spam_genere,train
+Essai ?,Spam / Hors sujet,spam_genere,train
+???,Spam / Hors sujet,spam_genere,train
+Rania mange une pizza,Spam / Hors sujet,spam_genere,train
+pvrnyko ljhzfwyhcsj kxojtcdqnfy,Spam / Hors sujet,spam_genere,train
+Yes ?,Spam / Hors sujet,spam_genere,train
+slt.,Spam / Hors sujet,spam_genere,train
+Okay ?,Spam / Hors sujet,spam_genere,train
+hello monsieur,Spam / Hors sujet,spam_genere,train
+Bye,Spam / Hors sujet,spam_genere,train
+Merci,Spam / Hors sujet,spam_genere,train
+allo,Spam / Hors sujet,spam_genere,train
+salut les gars,Spam / Hors sujet,spam_genere,train
+bonsoir.,Spam / Hors sujet,spam_genere,train
+Coucou,Spam / Hors sujet,spam_genere,train
+zxcvbn,Spam / Hors sujet,spam_genere,train
+Mariem est dans la maison,Spam / Hors sujet,spam_genere,train
+au revoir...,Spam / Hors sujet,spam_genere,train
+just saying hi,Spam / Hors sujet,spam_genere,train
+Dernière chance ! casino en ligne : 100 tours gratuits,Spam / Hors sujet,spam_genere,train
+BYE,Spam / Hors sujet,spam_genere,train
+bonne journée...,Spam / Hors sujet,spam_genere,train
+test !,Spam / Hors sujet,spam_genere,train
+mubcrd sbqgbcnnc,Spam / Hors sujet,spam_genere,train
+Hi ?,Spam / Hors sujet,spam_genere,train
+Rania est dans la maison,Spam / Hors sujet,spam_genere,train
+poppj,Spam / Hors sujet,spam_genere,train
+Sami regarde un match,Spam / Hors sujet,spam_genere,train
+aaxq qphodvu,Spam / Hors sujet,spam_genere,train
+salut !,Spam / Hors sujet,spam_genere,train
+Super,Spam / Hors sujet,spam_genere,train
+oui,Spam / Hors sujet,spam_genere,train
+123456789,Spam / Hors sujet,spam_genere,train
+test test,Spam / Hors sujet,spam_genere,train
+BONJOUR,Spam / Hors sujet,spam_genere,train
+Nour a un nouveau téléphone,Spam / Hors sujet,spam_genere,train
+HFHFHF,Spam / Hors sujet,spam_genere,train
+blabla...,Spam / Hors sujet,spam_genere,train
+COOL,Spam / Hors sujet,spam_genere,train
+salut tout le monde,Spam / Hors sujet,spam_genere,train
+okay !,Spam / Hors sujet,spam_genere,train
+Tu viens jouer à la console cet après-midi ?,Spam / Hors sujet,spam_genere,train
+Tu as vu le match hier ? C'était incroyable !,Spam / Hors sujet,spam_genere,train
+Molka chante dans la douche,Spam / Hors sujet,spam_genere,train
+asdfgh,Spam / Hors sujet,spam_genere,train
+hello world,Spam / Hors sujet,spam_genere,train
+Molka est dans la maison,Spam / Hors sujet,spam_genere,train
+xxx,Spam / Hors sujet,spam_genere,train
+essai.,Spam / Hors sujet,spam_genere,train
+"Je n'ai rien à faire ce week-end, et toi ?",Spam / Hors sujet,spam_genere,train
+rien !,Spam / Hors sujet,spam_genere,train
+Bonjour,Spam / Hors sujet,spam_genere,train
+essai essai,Spam / Hors sujet,spam_genere,train
+Mariem mange une pizza,Spam / Hors sujet,spam_genere,train
+Yassine joue au football,Spam / Hors sujet,spam_genere,train
+Ça va ?,Spam / Hors sujet,spam_genere,train
+Yassine est dans la maison,Spam / Hors sujet,spam_genere,train
+1 2 3,Spam / Hors sujet,spam_genere,train
+Coucou ?,Spam / Hors sujet,spam_genere,train
+bonjour à tous,Spam / Hors sujet,spam_genere,train
+ceci est un test,Spam / Hors sujet,spam_genere,train
+Mon chat dort sur le canapé depuis ce matin.,Spam / Hors sujet,spam_genere,train
+hello !,Spam / Hors sujet,spam_genere,train
+i miss you so much,Spam / Hors sujet,spam_genere,train
+coucou world,Spam / Hors sujet,spam_genere,train
+"Maman a préparé du couscous, rentre à la maison.",Spam / Hors sujet,spam_genere,train
+Nous avons passé une soirée géniale hier.,Spam / Hors sujet,spam_genere,train
+Dernière chance ! devenez riche avec la crypto en 24h,Spam / Hors sujet,spam_genere,train
+bonsoir ça va ?,Spam / Hors sujet,spam_genere,train
+salut.,Spam / Hors sujet,spam_genere,train
+"Gagnez gros : vous avez gagné un iPhone, cliquez ici",Spam / Hors sujet,spam_genere,train
+coucou les gars,Spam / Hors sujet,spam_genere,train
+cool.,Spam / Hors sujet,spam_genere,train
+cc !,Spam / Hors sujet,spam_genere,train
+Ahmed joue au football,Spam / Hors sujet,spam_genere,train
+lol...,Spam / Hors sujet,spam_genere,train
+Molka dort déjà,Spam / Hors sujet,spam_genere,train
+good morning everyone,Spam / Hors sujet,spam_genere,train
+rien,Spam / Hors sujet,test_synth,test_synth
+rien...,Spam / Hors sujet,test_synth,test_synth
+Qui a mangé mon gâteau au chocolat ?,Spam / Hors sujet,test_synth,test_synth
+Amine mange une pizza,Spam / Hors sujet,test_synth,test_synth
+hello les gars,Spam / Hors sujet,test_synth,test_synth
+NON,Spam / Hors sujet,test_synth,test_synth
+what are you doing tonight,Spam / Hors sujet,test_synth,test_synth
+au revoir !,Spam / Hors sujet,test_synth,test_synth
+Amine est partie au marché,Spam / Hors sujet,test_synth,test_synth
+RIEN,Spam / Hors sujet,test_synth,test_synth
+bonjour.,Spam / Hors sujet,test_synth,test_synth
+Amine prépare un gâteau,Spam / Hors sujet,test_synth,test_synth
+"Bonne nuit ma puce, fais de beaux rêves.",Spam / Hors sujet,test_synth,test_synth
+Slt,Spam / Hors sujet,test_synth,test_synth
+FÉLICITATIONS ! devenez riche avec la crypto en 24h,Spam / Hors sujet,test_synth,test_synth
+allo...,Spam / Hors sujet,test_synth,test_synth
+Dernière chance ! -70% sur tout le site aujourd'hui seulement,Spam / Hors sujet,test_synth,test_synth
+bonjour,Spam / Hors sujet,test_synth,test_synth
+hello comment ça va,Spam / Hors sujet,test_synth,test_synth
+behi barcha,Spam / Hors sujet,test_synth,test_synth
+oui !,Spam / Hors sujet,test_synth,test_synth
+essai...,Spam / Hors sujet,test_synth,test_synth
+bye.,Spam / Hors sujet,test_synth,test_synth
+super,Spam / Hors sujet,test_synth,test_synth
+blabla,Spam / Hors sujet,test_synth,test_synth
+Ahmed est partie au marché,Spam / Hors sujet,test_synth,test_synth
+cc...,Spam / Hors sujet,test_synth,test_synth
+hey...,Spam / Hors sujet,test_synth,test_synth
+allo.,Spam / Hors sujet,test_synth,test_synth
+bonsoir madame,Spam / Hors sujet,test_synth,test_synth
+test.,Spam / Hors sujet,test_synth,test_synth
+nvimer wkcibzwfnci,Spam / Hors sujet,test_synth,test_synth
+FÉLICITATIONS ! achetez des followers pas chers,Spam / Hors sujet,test_synth,test_synth
+Ahmed chante dans la douche,Spam / Hors sujet,test_synth,test_synth
+Dernière chance ! cliquez sur ce lien pour recevoir votre cadeau,Spam / Hors sujet,test_synth,test_synth
+ok,Spam / Hors sujet,test_synth,test_synth
+cc.,Spam / Hors sujet,test_synth,test_synth
+Mariem regarde un match,Spam / Hors sujet,test_synth,test_synth
+Salwa regarde un match,Spam / Hors sujet,test_synth,test_synth
+glfakmcp,Spam / Hors sujet,test_synth,test_synth
+bonjour tout le monde,Spam / Hors sujet,test_synth,test_synth
+Molka mange une pizza,Spam / Hors sujet,test_synth,test_synth
+Sami dort déjà,Spam / Hors sujet,test_synth,test_synth
+Sami a un nouveau téléphone,Spam / Hors sujet,test_synth,test_synth
+kifech 7alek,Spam / Hors sujet,test_synth,test_synth
+👍👍,Spam / Hors sujet,test_synth,test_synth
+Mariem a un nouveau téléphone,Spam / Hors sujet,test_synth,test_synth
+salut les amis,Spam / Hors sujet,test_synth,test_synth
+Allo ?,Spam / Hors sujet,test_synth,test_synth
+how was your weekend,Spam / Hors sujet,test_synth,test_synth
+Non ?,Spam / Hors sujet,test_synth,test_synth
+message de test,Spam / Hors sujet,test_synth,test_synth
+qsdfgh,Spam / Hors sujet,test_synth,test_synth
+lxaazipigwt ozxllchdh gkgpttapulz,Spam / Hors sujet,test_synth,test_synth
+sa7it,Spam / Hors sujet,test_synth,test_synth
+bonjour...,Spam / Hors sujet,test_synth,test_synth
+bonjour les amis,Spam / Hors sujet,test_synth,test_synth
+Karim chante dans la douche,Spam / Hors sujet,test_synth,test_synth
+Nour regarde un match,Spam / Hors sujet,test_synth,test_synth
+cool !,Spam / Hors sujet,test_synth,test_synth
+salut,Spam / Hors sujet,test_ami,test_ami
+hello,Spam / Hors sujet,test_ami,test_ami
+bonjour !,Spam / Hors sujet,test_ami,test_ami
+coucou ça va,Spam / Hors sujet,test_ami,test_ami
+test,Spam / Hors sujet,test_ami,test_ami
+azertyuiop,Spam / Hors sujet,test_ami,test_ami
+ok merci,Spam / Hors sujet,test_ami,test_ami
+????,Spam / Hors sujet,test_ami,test_ami
+lol,Spam / Hors sujet,test_ami,test_ami
+hey,Spam / Hors sujet,test_ami,test_ami
+bonne soirée,Spam / Hors sujet,test_ami,test_ami
+123,Spam / Hors sujet,test_ami,test_ami
+wesh,Spam / Hors sujet,test_ami,test_ami
+qwerty,Spam / Hors sujet,test_ami,test_ami
+je teste,Spam / Hors sujet,test_ami,test_ami
+yo,Spam / Hors sujet,test_ami,test_ami
+aaaaaa,Spam / Hors sujet,test_ami,test_ami
+bjr,Spam / Hors sujet,test_ami,test_ami
+bonsoir tout le monde,Spam / Hors sujet,test_ami,test_ami
+essaie,Spam / Hors sujet,test_ami,test_ami
+"Salut ma chérie, tu viens manger à la maison ce soir ? Maman a préparé du couscous.",Spam / Hors sujet,test_manuel,test_manuel
+viens vite j'ai besoin de toi mon grand nounours,Spam / Hors sujet,test_manuel,test_manuel
+molka est dans la maison elle va rester jusqu'a salwa tsamaha,Spam / Hors sujet,test_manuel,test_manuel
+mariem test test mawselha chay,Spam / Hors sujet,test_manuel,test_manuel
+"Gagnez un voyage à Dubaï gratuit, il suffit de cliquer sur ce lien et d'entrer votre carte bancaire.",Spam / Hors sujet,test_manuel,test_manuel
+I just wanted to say hello and ask how your weekend was.,Spam / Hors sujet,test_manuel,test_manuel
+asdkjh qwoeiu zmxncb lkjh,Spam / Hors sujet,test_manuel,test_manuel
+Hello,Spam / Hors sujet,test_manuel,test_manuel
+"Match de foot ce soir à 21h, tu viens avec nous ?",Spam / Hors sujet,test_manuel,test_manuel
+"Vends mon téléphone très bon prix, contactez-moi sur WhatsApp !!!",Spam / Hors sujet,test_manuel,test_manuel
+joyeux anniversaire ! passe une très belle journée,Spam / Hors sujet,test_manuel,test_manuel
+"Nouvelle collection de montres de luxe à -80%, offre limitée, achetez maintenant",Spam / Hors sujet,test_manuel,test_manuel
