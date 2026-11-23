@@ -3,6 +3,7 @@ import joblib
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import ConfusionMatrixDisplay
+from classification import predire_liste
 from config import DONNEES, MODELE, MATRICE
 
 pd.set_option("display.width", 250)
@@ -11,15 +12,18 @@ pd.set_option("display.max_columns", None)
 modele = joblib.load(MODELE)
 df = pd.read_csv(DONNEES)
 d = df[df["split"] == "test_manuel"].copy()
-d["prediction"] = modele.predict(d["email_text"])
+d["prediction"] = predire_liste(modele, d["email_text"])  # règles de sécurité comprises
 
 print("Tableau des erreurs (lignes = vraie catégorie, colonnes = réponse du modèle) :")
 print(pd.crosstab(d["category"], d["prediction"]))
+
 MATRICE.parent.mkdir(exist_ok=True)
-ConfusionMatrixDisplay.from_predictions(
+affichage = ConfusionMatrixDisplay.from_predictions(
     d["category"], d["prediction"], xticks_rotation=30, cmap="Blues"
 )
-plt.title("Résultats sur les 60 e-mails écrits à la main")
+affichage.figure_.set_size_inches(10, 8)
+plt.setp(affichage.ax_.get_xticklabels(), ha="right", rotation_mode="anchor")
+plt.title(f"Résultats sur les {len(d)} e-mails écrits à la main")
 plt.xlabel("Réponse du modèle")
 plt.ylabel("Vraie catégorie")
 plt.tight_layout()
